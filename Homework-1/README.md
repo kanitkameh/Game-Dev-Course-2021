@@ -10,12 +10,13 @@ This homework is based of the first 4 practices in https://www.youtube.com/chann
 # Your tasks for it are:
  1. Setup a scene - make a level with the assets that are given.
  2. Make a player character and give him the ability to move
- 3. Make a camera follow script - The task is to write a script that will make the camera follow the player. Bonus points if you can make the following motion smooth.
- 4. Ground Detection - The task is to write a script that lets the player jump. Jumping is allowed only if the player was previously on the ground (otherwise he would be able to jump to infinity). 
- 5. Dropping Platforms - It's pretty self-explanatory. When you jump on it it must drop down.
- 6. Moving Platforms - Right or left. Up or down. As you wish.
- 7. ** Pick Ups - In the asset package there is a key. Use this key and when the player move through it it will disappear. Output something in the console.
- 8. ** Power Ups - Make a jumping pad or something similar.
+ ![hw1_movement](https://user-images.githubusercontent.com/20006641/109514963-39a65680-7aaf-11eb-91ed-83a491041e3e.gif)
+ 4. Make a camera follow script - The task is to write a script that will make the camera follow the player. Bonus points if you can make the following motion smooth.
+ 5. Ground Detection - The task is to write a script that lets the player jump. Jumping is allowed only if the player was previously on the ground (otherwise he would be able to jump to infinity). 
+ 6. Dropping Platforms - It's pretty self-explanatory. When you jump on it it must drop down.
+ 7. Moving Platforms - Right or left. Up or down. As you wish.
+ 8. ** Pick Ups - In the asset package there is a key. Use this key and when the player move through it it will disappear. Output something in the console.
+ 9. ** Power Ups - Make a jumping pad or something similar.
  
 # After you finish this homework your game may look something like:
 ![image](https://user-images.githubusercontent.com/25185815/108394913-ebc36000-721d-11eb-9f92-79e3bd036c1a.png)
